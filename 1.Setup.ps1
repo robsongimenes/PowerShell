@@ -1,4 +1,4 @@
-﻿# Check the exising version
+﻿# Check the exising version running the following command
 #$PSVersiontable
 # Set an execution policy
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Force
